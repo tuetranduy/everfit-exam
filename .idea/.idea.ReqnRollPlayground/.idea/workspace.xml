@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="de5c0234-e28b-40de-80c7-7b75fb7000e4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ReqnRollPlayground/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ReqnRollPlayground/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ReqnRollPlayground/.idea/projectSettingsUpdater.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ReqnRollPlayground/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Context/CalculatorContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Context/CalculatorContext.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/BrowserFactory.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Drivers/BrowserFactory.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/ChromeDriverSetup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Drivers/ChromeDriverSetup.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/DriverUtils.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Drivers/DriverUtils.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/FirefoxDriverSetup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Drivers/FirefoxDriverSetup.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/IDriverSetup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Drivers/IDriverSetup.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Features/Calculator.feature.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Features/Calculator.feature.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Features/Calculator2.feature.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Features/Calculator2.feature.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PageObject.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PageObject.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReqnRollPlayground.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/EverfitExam.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReqnRollPlayground.sln" beforeDir="false" afterPath="$PROJECT_DIR$/EverfitExam.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Services/MailService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Services/MailService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StepDefinitions/CalculatorStepDefinitions.cs" beforeDir="false" afterPath="$PROJECT_DIR$/StepDefinitions/CalculatorStepDefinitions.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StepDefinitions/Hooks.cs" beforeDir="false" afterPath="$PROJECT_DIR$/StepDefinitions/Hooks.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestDependenciesResolver.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TestDependenciesResolver.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebElements/WebObject.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WebElements/WebObject.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebElements/WebObjectExtension.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WebElements/WebObjectExtension.cs" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2sk9ggp26HocZ9b167JQ2hcgKGK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="de5c0234-e28b-40de-80c7-7b75fb7000e4" name="Changes" comment="" />
+      <created>1738988819361</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1738988819361</updated>
+      <workItem from="1738988820672" duration="58000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+</project>
